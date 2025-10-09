@@ -43,6 +43,9 @@ builder.Services.AddScoped<IAircraftService, AircraftService>();
 builder.Services.AddScoped<IFlightRouteRepository, FlightRouteRepository>();
 builder.Services.AddScoped<IFlightRouteService, FlightRouteService>();
 
+builder.Services.AddScoped<IUserRepository, UserRepository>();
+builder.Services.AddScoped<IUserService, UserService>();
+
 
 var app = builder.Build();
 
