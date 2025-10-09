@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "6c4Sa34Trn8=",
+  "dgSpecHash": "1D2UWzaabfc=",
   "success": true,
   "projectFilePath": "C:\\Users\\Kent Jay Otadoy\\source\\repos\\Airline1\\Airline1.Tests\\Airline1.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Kent Jay Otadoy\\.nuget\\packages\\automapper\\15.0.1\\automapper.15.0.1.nupkg.sha512",
     "C:\\Users\\Kent Jay Otadoy\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Kent Jay Otadoy\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
+    "C:\\Users\\Kent Jay Otadoy\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
     "C:\\Users\\Kent Jay Otadoy\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\Kent Jay Otadoy\\.nuget\\packages\\coverlet.collector\\6.0.2\\coverlet.collector.6.0.2.nupkg.sha512",
     "C:\\Users\\Kent Jay Otadoy\\.nuget\\packages\\fluentassertions\\8.6.0\\fluentassertions.8.6.0.nupkg.sha512",

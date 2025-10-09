@@ -165,3 +165,4 @@ C:\Users\Kent Jay Otadoy\source\repos\Airline1\Airline1.Tests\obj\Debug\net9.0\r
 C:\Users\Kent Jay Otadoy\source\repos\Airline1\Airline1.Tests\obj\Debug\net9.0\Airline1.Tests.pdb
 C:\Users\Kent Jay Otadoy\source\repos\Airline1\Airline1.Tests\obj\Debug\net9.0\Airline1.Tests.genruntimeconfig.cache
 C:\Users\Kent Jay Otadoy\source\repos\Airline1\Airline1.Tests\obj\Debug\net9.0\ref\Airline1.Tests.dll
+C:\Users\Kent Jay Otadoy\source\repos\Airline1\Airline1.Tests\obj\Debug\net9.0\Airline1.Tests.sourcelink.json
