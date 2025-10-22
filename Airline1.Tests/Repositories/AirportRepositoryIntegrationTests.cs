@@ -3,8 +3,8 @@ using FluentAssertions;
 using Microsoft.EntityFrameworkCore;
 using Airline1.Data;
 using Airline1.Models;
-using Airline1.Repositories.Implementations;
 using System.Threading.Tasks;
+using Airline1.Implementations;
 
 namespace Airline1.Tests.Repositories
 {

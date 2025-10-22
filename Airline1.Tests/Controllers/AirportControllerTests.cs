@@ -1,12 +1,12 @@
 ﻿using Xunit;
 using Moq;
 using Airline1.Controllers;
-using Airline1.Services.Interfaces;
 using Airline1.Dtos.Requests;
 using Airline1.Dtos.Responses;
 using Microsoft.AspNetCore.Mvc;
 using System.Collections.Generic;
 using System.Threading.Tasks;
+using Airline1.IService;
 
 namespace Airline1.Tests.Controllers
 {
